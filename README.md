@@ -1,4 +1,4 @@
-Here's a clean and helpful `README.md` file for your **Brain Rot Translator** project that explains setup, usage, and troubleshooting:
+**Brain Rot Translator** project that explains setup, usage, and troubleshooting:
 
 ---
 
@@ -28,13 +28,13 @@ Here's a clean and helpful `README.md` file for your **Brain Rot Translator** pr
 brain-rot-translator/
 │
 ├── backend/
-│   ├── app.py               # Flask backend
-│   └── requirements.txt     # Dependencies
+│   ├── app.py              
+│   └── requirements.txt    
 │
 ├── extension/
-│   ├── manifest.json        # Chrome extension config
-│   ├── content.js           # Main logic for replacing slang
-│   └── test.html            # Sample HTML page to test locally
+│   ├── manifest.json       
+│   ├── content.js          
+│   └── test.html            
 │
 └── README.md
 
@@ -146,9 +146,6 @@ MIT License. Use, modify, or contribute freely.
 
 ## 👤 Author
 
-Made with 🧠 by \[Your Name]
+Made with 🧠 by \[KP]
 
-```
 
-Let me know if you'd like the markdown exported as a `.md` file or zipped with your project.
-```
