@@ -1,9 +1,11 @@
+from flask_cors import CORS
 from flask import Flask, request, jsonify
 from textblob import TextBlob
 import nltk
 nltk.download('punkt')
 
 app = Flask(__name__)
+CORS(app)
 
 # Example slang dictionary for replacement
 slang_dict = {
